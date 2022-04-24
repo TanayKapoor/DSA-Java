@@ -11,7 +11,7 @@ public class printDivisorsEfficient {
     }
 
     public static void main(String[] args) {
-        int n = 56;
+        int n = 150;
         printDivisorsEfficient(n);
     }
 }

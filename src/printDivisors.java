@@ -8,6 +8,6 @@ public class printDivisors {
     }
 
     public static void main(String[] args) {
-        printDivisors(6);
+        printDivisors(150);
     }
 }
